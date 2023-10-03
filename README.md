@@ -66,7 +66,7 @@ A big thanks to all of them!
 
 4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/blayne-eyster/StahlfaustSITCoopServer/wiki#need-help).
 ## Installing Client Side Mods
-1. Open the `stahlfaust's SIT-Coop Server` folder that you unzipped earlier.
+1. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder that you unzipped earlier.
 
 2. Open the `Client Mods` folder.
 
