@@ -28,9 +28,9 @@ A big thanks to all of them!
 ## Using the SIT AIO Installer and Patching Your Game Files
 **Before you attempt to install SIT, please update Tarkov through the BSG launcher and then start the game.**
 **Take note of your game version in the lower left corner of the screen. This version number will be important in a future step.**
-1. Unzip `stahlfaust's SIT-Coop Server.zip` to an easily accessible place like your Desktop.
+1. Unzip `stahlfausts.SIT.Coop.Serverpack.v0.1.0-alpha+SIT.AIO.Installer.zip` to an easily accessible place like your Desktop.
 
-2. Open the `stahlfaust's SIT-Coop Server` folder, then the `Stay in Tarkov AIO Installer + Troubleshooter` folder and run `SIT-AIO-Installer.exe`  **as an administrator**.
+2. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder, then the `Stay in Tarkov AIO Installer + Troubleshooter` folder and run `SIT-AIO-Installer.exe`  **as an administrator**.
 
 	- Select your live Escape from Tarkov folder (this is usually under `X:\Battlestate Games\EFT`)
 
