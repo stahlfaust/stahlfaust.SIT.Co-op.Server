@@ -75,7 +75,9 @@ A big thanks to all of them!
 - You can modify other mods like [Amands' Hitmarker](https://hub.sp-tarkov.com/files/file/798-amands-s-hitmarker/), [Amands' Sense](https://hub.sp-tarkov.com/files/file/1361-amands-sense/) or [Fontaine's Combat Stance Overhaul](https://hub.sp-tarkov.com/files/file/1098-fontaine-s-combat-stance-overhaul/) using the "F12" key.
 ## Realistic Lighting Mod
 If you would like to install the Realistic Lighting for EFT mod, open the `Optional Amands' Graphics + Reshade` folder and follow the installation instructions below. If you do not want to use the Reshade preset you can configure [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/) to your liking via the "F12" key.
-!(https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/b2cac304-1d70-4917-b297-8b6d81574955)
+
+![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/b2cac304-1d70-4917-b297-8b6d81574955)
+
 ## Need Help?
 - Try to run `SIT-Patcher-Troubleshooter.exe` if you're running into problems loading the game after installation.
 Please DM me on Discord: "[stahlfaust](https://discord.com/users/588465573009162251)" for futher assistance.
