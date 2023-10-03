@@ -1,10 +1,11 @@
 # stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [Version 1.0.0](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
-## Info on this Serverpack
+## Info on this serverpack
 ### What's included
 - [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) + Troubleshooter
 - Client modpack for my SIT Server
-- [Realistic Lighting for EFT](https://hub.sp-tarkov.com/files/file/1429-realistic-lighting-for-eft/) via Reshade + Amands' Graphics
-### My server modpack contains the following mods. These have been ported from SPT-AKI to be compatible with SIT-AKI by [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports).
+- [Realistic Lighting for EFT](https://hub.sp-tarkov.com/files/file/1429-realistic-lighting-for-eft/) via [Reshade](https://reshade.me/) + [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)
+### Client modpack
+- [Amands' Graphics by Amands](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)
 - [Amands' Hitmarker by Amands](https://hub.sp-tarkov.com/files/file/798-amands-s-hitmarker/)
 - [Amands' Sense by Amands](https://hub.sp-tarkov.com/files/file/1361-amands-sense/)
 - [BigBrain by DrakiaXYZ](https://hub.sp-tarkov.com/files/file/1219-bigbrain/)
@@ -20,6 +21,7 @@
 - All original SPT-AKI mods credited to their respective creators.
 - [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) credited to [T4s3rF4c3](https://github.com/T4s3rF4c3).
 - All [SIT-AKI mod ports](https://github.com/Lacyway/SIT-Mod-Ports) credited to [Lacyway](https://github.com/Lacyway).
+
 A big thanks to all of them!
 ## What is SIT?
 [SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "offline" coop-multiplayer.
@@ -40,7 +42,7 @@ A big thanks to all of them!
 
 3. The installer will then prompt you to patch your new game files. Select a patcher [here](https://hub.sp-tarkov.com/files/file/204-aki-patcher/#versions) that will downgrade the current version of your newly-copied, unmodified EFT files to **13.1.3.25206 SPT**.
 
-	- Extract the contents of the zip file, then copy `patcher.exe` and the `Aki_Patches` folder into `X:\SIT\SIT-EFT-Install` (so they are in the same folder as EscapeFromTarkov.exe)
+	- Extract the contents of the zip file, copy `patcher.exe` and the `Aki_Patches` folder and then paste them into `X:\SIT\SIT-EFT-Install` (so they are in the same folder as EscapeFromTarkov.exe)
 
 	- Run `patcher.exe` **as an administrator**. The patching process will take several minutes. Once completed, move on to the next step.
 
