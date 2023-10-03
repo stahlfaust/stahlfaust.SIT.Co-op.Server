@@ -51,7 +51,7 @@ A big thanks to all of them!
 	- The first time you run the launcher it will prompt you:
 "_No OFFLINE install found. Would you like to install now?_"
 
-	* Click "Yes".
+	- Click "Yes".
 
 	- Select `X:\SIT\SIT-EFT-Install` as the installation directory.
 
