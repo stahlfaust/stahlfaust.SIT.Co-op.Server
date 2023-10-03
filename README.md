@@ -1,4 +1,4 @@
-# stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [Version 1.0.0](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
+# stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [v0.1.0-alpha](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
 ## Info on this serverpack
 ### What's included
 - [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) + Troubleshooter
