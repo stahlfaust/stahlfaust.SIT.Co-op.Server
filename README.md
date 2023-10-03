@@ -1,5 +1,9 @@
-# stahlfaust's SIT Coop Server Modpack + AIO Installer - [Version 1.0.0](https://github.com/blayne-eyster/StahlfaustSITCoopServer/releases/tag/v1.0.0)
-## Info on this Modpack
+# stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [Version 1.0.0](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
+## Info on this Serverpack
+### What's included
+- [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) + Troubleshooter
+- Client modpack for my SIT Server
+- [Realistic Lighting for EFT](https://hub.sp-tarkov.com/files/file/1429-realistic-lighting-for-eft/) via Reshade + Amands' Graphics
 ### My server modpack contains the following mods. These have been ported from SPT-AKI to be compatible with SIT-AKI by [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports).
 - [Amands' Hitmarker by Amands](https://hub.sp-tarkov.com/files/file/798-amands-s-hitmarker/)
 - [Amands' Sense by Amands](https://hub.sp-tarkov.com/files/file/1361-amands-sense/)
@@ -14,12 +18,12 @@
 ### Credits
 - Without [paulov-t](https://github.com/paulov-t) none of this would be possible!
 - All original SPT-AKI mods credited to their respective creators.
-- AIO SIT Installer + Troubleshooter credited to [T4s3rF4c3](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1).
-- All SIT-AKI mod ports credited to [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports).
+- [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) credited to [T4s3rF4c3](https://github.com/T4s3rF4c3).
+- All [SIT-AKI mod ports](https://github.com/Lacyway/SIT-Mod-Ports) credited to [Lacyway](https://github.com/Lacyway).
 A big thanks to all of them!
 ## What is SIT?
 [SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "offline" coop-multiplayer.
-## Using the AIO Installer and Patching Your Game Files
+## Using the SIT AIO Installer and Patching Your Game Files
 **Before you attempt to install SIT, please update Tarkov through the BSG launcher and then start the game.**
 **Take note of your game version in the lower left corner of the screen. This version number will be important in a future step.**
 1. Unzip `stahlfaust's SIT-Coop Server.zip` to an easily accessible place like your Desktop.
