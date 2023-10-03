@@ -1,6 +1,6 @@
 # stahlfaust's SIT Coop Server Modpack + AIO Installer - [Version 1.0.0](https://github.com/blayne-eyster/StahlfaustSITCoopServer/releases/tag/v1.0.0)
 ## Info on this Modpack
-**My server modpack contains the following mods. These have been ported from SPT-AKI to be compatible with SIT-AKI by [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports)**.
+### My server modpack contains the following mods. These have been ported from SPT-AKI to be compatible with SIT-AKI by [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports).
 - [Amands' Hitmarker by Amands](https://hub.sp-tarkov.com/files/file/798-amands-s-hitmarker/)
 - [Amands' Sense by Amands](https://hub.sp-tarkov.com/files/file/1361-amands-sense/)
 - [BigBrain by DrakiaXYZ](https://hub.sp-tarkov.com/files/file/1219-bigbrain/)
@@ -18,7 +18,7 @@
 - All SIT-AKI mod ports credited to [Lacyway](https://github.com/Lacyway/SIT-Mod-Ports).
 A big thanks to all of them!
 ## What is SIT?
-[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "Offline" Coop.
+[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "offline" coop-multiplayer.
 ## Using the AIO Installer and Patching Your Game Files
 **Before you attempt to install SIT, please update Tarkov through the BSG launcher and then start the game.**
 **Take note of your game version in the lower left corner of the screen. This version number will be important in a future step.**
