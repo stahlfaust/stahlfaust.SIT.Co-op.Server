@@ -64,7 +64,7 @@ A big thanks to all of them!
 
 3. Enter your desired password (don't use any password you care about).
 
-4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/blayne-eyster/StahlfaustSITCoopServer/wiki#need-help).
+4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/blob/main/README.md#need-help).
 ## Installing Client Side Mods
 1. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder that you unzipped earlier.
 
