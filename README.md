@@ -1,5 +1,5 @@
 # stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [v0.1.0-alpha](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
-![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/525d129e-8296-4f53-9ff1-8a9a6a531b34)
+![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/908cd5ff-dab4-4459-8583-be5c5abd9597)
 # stahlfaust's SIT Coop Server IP: http://blyat-man.duckdns.org:6969
 # Join the discord: https://discord.gg/g7dgQNYUt4
 ## Info on this serverpack
