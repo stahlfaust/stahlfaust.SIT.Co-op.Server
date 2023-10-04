@@ -58,7 +58,7 @@ A big thanks to all of them!
 	- Let the launcher copy your game files, this can take a few minutes.
 
 ## How to use the SIT Launcher
-1. Enter the server address into the "Server" field. To join my server enter http://beyster.duckdns.org:6969.
+1. Enter the server address into the "Server" field. To join my server enter http://blyat-man.duckdns.org:6969.
 
 2. Enter your desired username.
 
