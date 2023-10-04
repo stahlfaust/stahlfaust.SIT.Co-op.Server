@@ -33,8 +33,7 @@ A big thanks to all of them!
 
 2. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder, then the `Stay in Tarkov AIO Installer + Troubleshooter` folder and run `SIT-AIO-Installer.exe`  **as an administrator**.
 
-	- Selec![Server Info Banner](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/9f35666e-8306-43d7-8584-dc16d91ddb2b)
-t your live Escape from Tarkov folder (this is usually under `X:\Battlestate Games\EFT`)
+	- Select your live Escape from Tarkov folder (this is usually under `X:\Battlestate Games\EFT`)
 
 	- Select a destination folder for the SIT installation. I recommend creating a folder named `SIT` under your `C:\` drive (root directory) but any drive will work.
 
