@@ -11,7 +11,6 @@
 - [Amands' Sense by Amands](https://hub.sp-tarkov.com/files/file/1361-amands-sense/)
 - [BigBrain by DrakiaXYZ](https://hub.sp-tarkov.com/files/file/1219-bigbrain/)
 - [Custom Main Menu Music by SamSWAT](https://hub.sp-tarkov.com/files/file/589-custom-main-menu-music/)
-- [Fontaine's Combat Stance Overhaul by Fontaine](https://hub.sp-tarkov.com/files/file/1098-fontaine-s-combat-stance-overhaul/)
 - [Looting Bots by Skwizzy](https://hub.sp-tarkov.com/files/file/1096-looting-bots/)
 - [More Checkmarks by VIPkiller17](https://hub.sp-tarkov.com/files/file/1159-morecheckmarks/)
 - [Sain 2.0 by Solarint](https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
