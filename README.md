@@ -15,7 +15,7 @@
 - [Custom Main Menu Music by SamSWAT](https://hub.sp-tarkov.com/files/file/589-custom-main-menu-music/)
 - [Looting Bots by Skwizzy](https://hub.sp-tarkov.com/files/file/1096-looting-bots/)
 - [More Checkmarks by VIPkiller17](https://hub.sp-tarkov.com/files/file/1159-morecheckmarks/)
-- [Sain 2.0 by Solarint](https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
+- [SAIN 2.0 by Solarint](https://hub.sp-tarkov.com/files/file/1062-sain-2-0-solarint-s-ai-modifications-full-ai-combat-system-replacement/)
 - [TechHappy's Web Minimap by TechHappy](https://hub.sp-tarkov.com/files/file/1421-techhappy-s-web-minimap/)
 - [Time & Weather Changer by SamSWAT](https://hub.sp-tarkov.com/files/file/487-time-weather-changer/)
 - [Waypoints by DrakiaXYZ](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-bot-patrols-and-navmesh/)
