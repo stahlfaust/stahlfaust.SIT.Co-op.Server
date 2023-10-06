@@ -1,14 +1,15 @@
 # stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [v0.1.0-alpha](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
 ![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/908cd5ff-dab4-4459-8583-be5c5abd9597)
+# ⚠️ <ins>REQUIRED Serverpack<ins> ⚠️: https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases
 # stahlfaust's SIT Coop Server IP: http://blyat-man.duckdns.org:6969
 # Join the discord: https://discord.gg/g7dgQNYUt4
 ## Info on this serverpack
 ### What's included
 - [SIT AIO Installer](https://github.com/T4s3rF4c3/SIT-AIO-Installer-3.6.1) + Troubleshooter
-- [Client modpack](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases) for my SIT Server
+- Client modpack for my SIT Server
 - [Realistic Lighting for EFT](https://hub.sp-tarkov.com/files/file/1429-realistic-lighting-for-eft/) via [Reshade](https://reshade.me/) + [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)
-### ⚠️ <ins>REQUIRED Client modpack<ins> ⚠️
-Not using the client modpack will result in **severe desync** with other players. My modpack modifies AI personalities, looting behaviour, movement and combat.
+### ⚠️ Client modpack ⚠️
+Not using the client modpack contained within the serverpack will result in **severe desync** with other players. My modpack modifies AI personalities, looting behaviour, movement and combat.
 - [Amands' Graphics by Amands](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/)
 - [Amands' Hitmarker by Amands](https://hub.sp-tarkov.com/files/file/798-amands-s-hitmarker/)
 - [Amands' Sense by Amands](https://hub.sp-tarkov.com/files/file/1361-amands-sense/)
