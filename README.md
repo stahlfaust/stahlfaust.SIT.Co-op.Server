@@ -29,6 +29,7 @@
 - [Weight Tweaker](https://hub.sp-tarkov.com/files/file/867-weight-tweaker/)
 - [Item Info](https://hub.sp-tarkov.com/files/file/985-item-info/)
 - [Light's Automatic Armband Assistant](https://hub.sp-tarkov.com/files/file/1490-light-s-automatic-armband-assistant/)
+- [Make VAL/VSS Great Again](https://hub.sp-tarkov.com/files/file/1496-make-val-vss-great-again/)
 - [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
 - [Thermal Bundle](https://hub.sp-tarkov.com/files/file/1326-thermal-bundle/)
 - Server-side mods for More Checkmarks, Looting Bots, SAIN 2.0 and Waypoints
