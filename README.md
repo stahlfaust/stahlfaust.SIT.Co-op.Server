@@ -19,6 +19,19 @@
 - [TechHappy's Web Minimap by TechHappy](https://hub.sp-tarkov.com/files/file/1421-techhappy-s-web-minimap/)
 - [Time & Weather Changer by SamSWAT](https://hub.sp-tarkov.com/files/file/487-time-weather-changer/)
 - [Waypoints by DrakiaXYZ](https://hub.sp-tarkov.com/files/file/1119-waypoints-expanded-bot-patrols-and-navmesh/)
+### Server mods
+- [Ammo Stats in Desc](https://hub.sp-tarkov.com/files/file/284-ammo-stats-in-description/)
+- [BetterSpawnsPlus](https://hub.sp-tarkov.com/files/file/1002-betterspawnsplus/)
+- [Bot Callsigns](https://hub.sp-tarkov.com/files/file/1124-callsign/)
+- [Custom Raid Times](https://hub.sp-tarkov.com/files/file/771-custom-raid-times/)
+- [Hephaestus](https://hub.sp-tarkov.com/files/file/886-hephaestus/)
+- [Recoil Tweaker](https://hub.sp-tarkov.com/files/file/866-recoil-tweaker/)
+- [Weight Tweaker](https://hub.sp-tarkov.com/files/file/867-weight-tweaker/)
+- [Item Info](https://hub.sp-tarkov.com/files/file/985-item-info/)
+- [Light's Automatic Armband Assistant](https://hub.sp-tarkov.com/files/file/1490-light-s-automatic-armband-assistant/)
+- [Priscilu](https://hub.sp-tarkov.com/files/file/546-priscilu-the-trader/)
+- [Thermal Bundle](https://hub.sp-tarkov.com/files/file/1326-thermal-bundle/)
+- Server-side mods for More Checkmarks, Looting Bots, SAIN 2.0 and Waypoints
 ### Credits
 - Without [paulov-t](https://github.com/paulov-t) none of this would be possible!
 - All original SPT-AKI mods credited to their respective creators.
