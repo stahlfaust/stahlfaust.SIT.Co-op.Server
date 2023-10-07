@@ -1,7 +1,7 @@
-# stahlfaust's SIT Coop Serverpack + SIT AIO Installer - [v0.1.0-alpha](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases)
-![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/908cd5ff-dab4-4459-8583-be5c5abd9597)
-# ⚠️ <ins>REQUIRED Serverpack<ins> ⚠️: https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/releases
-# stahlfaust's SIT Coop Server IP: http://blyat-man.duckdns.org:6969
+# stahlfaust's SIT Co-op Serverpack + SIT AIO Installer - [v0.1.0-alpha](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/releases)
+![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/8e230f0f-768d-4655-a5f7-5cdbac6dfe7b)
+# ⚠️ <ins>REQUIRED Serverpack<ins> ⚠️: https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/releases
+# stahlfaust's SIT Co-op Server IP: http://blyat-man.duckdns.org:6969
 # Join the discord: https://discord.gg/g7dgQNYUt4
 ## Info on this serverpack
 ### What's included
@@ -43,13 +43,13 @@ Not using the client modpack contained within the serverpack will result in **se
 
 A big thanks to all of them!
 ## What is SIT?
-[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "offline" coop-multiplayer.
+[SIT (Stay in Tarkov)](https://github.com/paulov-t/SIT.Core) is an Escape From Tarkov BepInEx module designed to be used with the [SPT-AKI (Single Player Tarkov)](https://www.sp-tarkov.com/#features) server with the ultimate goal of "offline" Co-op-multiplayer.
 ## Using the SIT AIO Installer and Patching Your Game Files
 **Before you attempt to install SIT, please update Tarkov through the BSG launcher and then start the game.**
 **Take note of your game version in the lower left corner of the screen. This version number will be important in a future step.**
-1. Unzip `stahlfausts.SIT.Coop.Serverpack.v0.1.0-alpha+SIT.AIO.Installer.zip` to an easily accessible place like your Desktop.
+1. Unzip `stahlfausts.SIT.Co-op.Serverpack.v0.1.0-alpha+SIT.AIO.Installer.zip` to an easily accessible place like your Desktop.
 
-2. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder, then the `Stay in Tarkov AIO Installer + Troubleshooter` folder and run `SIT-AIO-Installer.exe`  **as an administrator**.
+2. Open the `stahlfaust's SIT Co-op Serverpack + SIT AIO Installer` folder, then the `Stay in Tarkov AIO Installer + Troubleshooter` folder and run `SIT-AIO-Installer.exe`  **as an administrator**.
 
 	- Select your live Escape from Tarkov folder (this is usually under `X:\Battlestate Games\EFT`)
 
@@ -83,9 +83,9 @@ A big thanks to all of them!
 
 3. Enter your desired password (don't use any password you care about).
 
-4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/blob/main/README.md#need-help).
+4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/stahlfaust/stahlfaust-SIT-Co-op-Server/blob/main/README.md#need-help).
 ## Installing Client Side Mods
-1. Open the `stahlfaust's SIT Coop Serverpack + SIT AIO Installer` folder that you unzipped earlier.
+1. Open the `stahlfaust's SIT Co-op Serverpack + SIT AIO Installer` folder that you unzipped earlier.
 
 2. Open the `Client Mods` folder.
 
@@ -95,7 +95,7 @@ A big thanks to all of them!
 ## Realistic Lighting Mod
 If you would like to install the Realistic Lighting for EFT mod, open the `Realistic Lighting for EFT - Amand's Graphics + Reshade` folder and follow the installation instructions below. If you do not want to use the Reshade preset you can configure [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/) to your liking via the "F12" key.
 
-![](https://github.com/stahlfaust/stahlfaust-SIT-Coop-Server/assets/135766383/b2cac304-1d70-4917-b297-8b6d81574955)
+![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/1e786d44-36b1-4fe7-82d4-e5d010b0ab06)
 
 ## Need Help?
 - Try to run `SIT-Patcher-Troubleshooter.exe` if you're running into problems loading the game after installation.
