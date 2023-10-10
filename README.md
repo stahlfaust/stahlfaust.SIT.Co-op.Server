@@ -103,7 +103,7 @@ If you would like to install the Realistic Lighting for EFT mod, open the `Reali
 
 ![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/4e83654c-e2a3-46a6-b87e-cd914761549b)
 
-- Make sure you have patched your game to the correct version: **Version 13.1.3.25206**. Details on that process are [here](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server#readme?plain=1#L62).
+- Make sure you have patched your game to the correct version: **Version 13.1.3.25206**. Details on that process are [here](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/blob/main/README.md?plain=1#L62).
 
 - Try to run `SIT-Patcher-Troubleshooter.exe` if you're running into problems loading the game after installation.
 Please DM me on Discord: "[stahlfaust](https://discord.com/users/588465573009162251)" for futher assistance.
