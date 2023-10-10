@@ -98,7 +98,7 @@ If you would like to install the Realistic Lighting for EFT mod, open the `Reali
 4. Click the `Launch` button to test your installation! If your game loads then you have completed the install correctly. If your game does not load please proceed to the troubleshooting section below.
 
 ## Need Help?
-- Make sure you run all the programs used in the installation as an administrator.
+- **Make sure you run all the programs used in the installation as an administrator.**
 - Make sure you have all the correct permissions in the root folder you put your install in. See the screenshot below.
 
 ![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/4e83654c-e2a3-46a6-b87e-cd914761549b)
