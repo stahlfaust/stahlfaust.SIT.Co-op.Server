@@ -59,7 +59,7 @@ A big thanks to all of them!
 
 	- If you would also like to run your own server instead of joining mine, click the `INSTALL - SERVER ONLY` button after the client finishes installing. After completion of the server installation you can view the documentation on configuring it [here](https://github.com/paulov-t/SIT.Core/wiki/Step-By-Step-Installation-Guide-English#configuring-the-server). The file path will be slightly different due to the way that the installer names the folders. **PLEASE NOTE THAT I AM NOT PROVIDING THE SERVER-SIDE MOD FILES THAT I'VE USED ON MY SERVER. AS A RESULT, SOME OF THE CLIENT-SIDED MODS WILL NOT FUNCTION PROPERLY IF YOU CHOOSE TO HOST YOUR OWN SERVER AND STILL USE THIS MODPACK.**
 
-3. The installer will then prompt you to patch your new game files. Select a patcher [here](https://hub.sp-tarkov.com/files/file/204-aki-patcher/#versions) that will downgrade the current version of your newly-copied, unmodified EFT files to **13.1.3.25206 SPT**.
+3. The installer will then prompt you to patch your new game files. Select a patcher [here](https://hub.sp-tarkov.com/files/file/204-aki-patcher/#versions) that will downgrade the current version of your newly-copied, unmodified EFT files to **Version 13.1.3.25206**. **NOTE: YOU MAY HAVE TO DOWNLOAD MULTIPLE RELEASES TO PATCH YOUR CURRENT GAME VERSION DOWN TO THE CORRECT VERSION.**
 
 	- Extract the contents of the zip file, copy `patcher.exe` and the `Aki_Patches` folder and then paste them into `X:\SIT\SIT-EFT-Install` (so they are in the same folder as EscapeFromTarkov.exe)
 
@@ -76,14 +76,6 @@ A big thanks to all of them!
 
 	- Let the launcher copy your game files, this can take a few minutes.
 
-## How to use the SIT Launcher
-1. Enter the server address into the "Server" field. To join my server enter http://blyat-man.duckdns.org:6969.
-
-2. Enter your desired username.
-
-3. Enter your desired password (don't use any password you care about).
-
-4. Click the `Launch` button to test your installation! If your game loads proceed to the next section. If your game does not load please [click here](https://github.com/stahlfaust/stahlfaust-SIT-Co-op-Server/blob/main/README.md#need-help).
 ## Installing Client Side Mods
 1. Open the `stahlfaust's SIT Co-op Serverpack + SIT AIO Installer` folder that you unzipped earlier.
 
@@ -96,7 +88,22 @@ A big thanks to all of them!
 If you would like to install the Realistic Lighting for EFT mod, open the `Realistic Lighting for EFT - Amand's Graphics + Reshade` folder and follow the installation instructions below. If you do not want to use the Reshade preset you can configure [Amands' Graphics](https://hub.sp-tarkov.com/files/file/813-amands-s-graphics/) to your liking via the "F12" key.
 
 ![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/1e786d44-36b1-4fe7-82d4-e5d010b0ab06)
+## How to use the SIT Launcher
+1. Enter the server address into the "Server" field. To join my server enter http://blyat-man.duckdns.org:6969.
+
+2. Enter your desired username.
+
+3. Enter your desired password (don't use any password you care about).
+
+4. Click the `Launch` button to test your installation! If your game loads then you have completed the install correctly. If your game does not load please proceed to the troubleshooting section below.
 
 ## Need Help?
+- Make sure you run all the programs used in the installation as an administrator.
+- Make sure you have all the correct permissions in the root folder you put your install in. See the screenshot below.
+
+![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/4e83654c-e2a3-46a6-b87e-cd914761549b)
+
+- Make sure you have patched your game to the correct version: **Version 13.1.3.25206**. Details on that process are [here](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server#readme?plain=1#L62).
+
 - Try to run `SIT-Patcher-Troubleshooter.exe` if you're running into problems loading the game after installation.
 Please DM me on Discord: "[stahlfaust](https://discord.com/users/588465573009162251)" for futher assistance.
