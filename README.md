@@ -95,7 +95,7 @@ A _big_ thanks to all of them! ❤️
 <br>
 <br>
 
-1. Make new folder in your root directory: `C:\SIT`
+1. Make a new folder in your root directory: `C:\SIT`
 
 2. Go to your `Escape from Tarkov` default installation path: *Usually* `C:\Battlestate Games` and copy the `EFT` folder to the folder you just made
  
@@ -118,7 +118,7 @@ A _big_ thanks to all of them! ❤️
 
 8. Run `patcher.exe` *as an administrator* - the patching process will take several minutes
 
-9. Open `C:\SIT\Launcher` and start `SIT.Manager.exe` as an administrator
+9. When the downpatcher has completed, open `C:\SIT\Launcher` and start `SIT.Manager.exe` as an administrator
 
 10. Click `Settings` and configure your `EFT Path` to `C:\SIT\EFT`
 
