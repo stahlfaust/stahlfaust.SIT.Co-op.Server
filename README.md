@@ -1,4 +1,9 @@
-![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/8e230f0f-768d-4655-a5f7-5cdbac6dfe7b)
+<div align=center>
+ 
+ ![](https://github.com/stahlfaust/stahlfaust.SIT.Co-op.Server/assets/135766383/8e230f0f-768d-4655-a5f7-5cdbac6dfe7b)
+
+</div>
+
 <div align=center style="text-align: center">
 <h1>stahlfaust and ReaperGaming's SIT Co-op Server</h1>
 <h3><ins>Server Info<ins></h3>
