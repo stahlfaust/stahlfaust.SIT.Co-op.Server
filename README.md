@@ -159,12 +159,12 @@ If you *would* like to install the Realistic Lighting for EFT mod, open the `(Op
 <h2>How to use SIT Manager</h2>
 </div>
 
-1. Enter the server address into the `Server` field. To join the server enter `http://blyat-man.duckdns.org:6969`
+1. Enter the server address: `http://blyat-man.duckdns.org:6969` into the `Server` field
 
 2. Enter your desired username
 
 3. Enter your desired password (don't use any password you care about for safety reasons)
 
-4. Click the `Connect` button - if your game loads then you have completed the install correctly
+4. Click the `Connect` button - if your game loads then you have most likely completed the install correctly
 
 5. See you in raid!
