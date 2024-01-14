@@ -105,7 +105,7 @@ A _big_ thanks to all of them! ❤️
 
 5. Rename `Release` to `Launcher`
 
-6. Select a patcher [here](https://hub.sp-tarkov.com/files/file/204-aki-patcher/#versions) that will downgrade the current version of your `C:\SIT\EFT` files to **Version 13.9.1.27622**
+6. Join this [Discord](https://discord.gg/f4CN4n3nP2) and select a patcher [here](https://discord.com/channels/1175114933713776690/1191743370326982686) that will downgrade the current version of your `C:\SIT\EFT` files to  **Version 13.9.1.27622**
 
 > [!NOTE]
 > You may have to download multiple release to patch your current game version down to **Version 13.9.1.27622**.
