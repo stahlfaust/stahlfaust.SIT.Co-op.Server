@@ -85,7 +85,7 @@ A _big_ thanks to all of them! ❤️
 
 <br>
 <div align=center style="text-align: center">
-<h2>Using the SIT Manager and patching your game files</h2>
+<h2>Patching your game files and using the SIT Manager</h2>
 </div>
 
 > [!IMPORTANT]
@@ -120,9 +120,11 @@ A _big_ thanks to all of them! ❤️
 
 9. When the downpatcher has completed, open `C:\SIT\Launcher` and start `SIT.Manager.exe` as an administrator
 
-10. Click `Settings` and configure your `EFT Path` to `C:\SIT\EFT`
+10. Click `Settings` and configure your `EFT Path` to `C:\SIT\EFT` - ignore the 'SPT-AKI Install Path' setting (It's not needed since you'll be connecting to our server)
 
 11. Click `Tools` and then click `Install SIT`
+
+12. <ins>**DO NOT**</ins> install any mods through the SIT Manager - Proceed to the next section
 
 <br>
 <div align=center style="text-align: center">
