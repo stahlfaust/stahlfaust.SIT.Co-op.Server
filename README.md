@@ -118,7 +118,7 @@ A _big_ thanks to all of them! ❤️
 
 8. Run `patcher.exe` *as an administrator* - the patching process will take several minutes
 
-9. When the downpatcher has completed, open `C:\SIT\Launcher` and start `SIT.Manager.exe` as an administrator
+9. When the downpatcher has completed, open `C:\SIT\Launcher` and start `SIT.Manager.exe`
 
 10. Click `Settings` and configure your `EFT Path` to `C:\SIT\EFT` - ignore the 'SPT-AKI Install Path' setting (It's not needed since you'll be connecting to our server)
 
